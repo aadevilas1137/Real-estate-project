@@ -1,4 +1,4 @@
-RealEstateWeb is a dynamic and user-friendly website designed to cater to individuals seeking accommodation for short or long-term stays, as well as those interested in purchasing apartments. Built with HTML, CSS, and JavaScript, this project offers a seamless browsing experience with interactive features.
+A Real Estate website, dynamic and user-friendly website designed to cater to individuals seeking accommodation for short or long-term stays, as well as those interested in purchasing apartments. Built with HTML, CSS, and JavaScript, this project offers a seamless browsing experience with interactive features.
 
 Key Features:
 Accommodation Listings: Browse through a comprehensive collection of available apartments, elegantly displayed with CSS styling.
